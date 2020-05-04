@@ -1,0 +1,53 @@
+/**************Tag Selector*************/
+body{
+    background-color: #fecea8;
+}
+h1{
+    font-family: cursive;
+    font-size: 45px;
+    font-style: oblique;
+}
+pre{
+    font-family: fantasy;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    width: 4%;
+    border-width: 5px;
+}
+img {
+    border-radius: 50%;
+}
+thead{
+    background-color: #ff847c;
+}
+/**************Class Selector*************/
+.Header {
+    font-family: Helvetica;
+    font-size: 20px;
+    padding: 15px;
+    background:#2a363b ;
+    color: #fecea8;
+}
+.profil{
+    border: none;
+    font-family: Verdana;
+    font-size: 15px;
+    
+}
+.font{
+    font-family: cursive;
+    font-size: 30px;
+}
+.font2{
+    font-family: Tahoma;
+}
+/****************ID Selector**************/
+#Tabel{
+    font-family: Verdana;
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-size: 15px;
+}
